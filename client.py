@@ -1,7 +1,7 @@
 import socket
 import subprocess
 
-REMOTE_HOST = '50.46.168.136'
+REMOTE_HOST = '#'
 REMOTE_PORT = 8081
 
 client = socket.socket()

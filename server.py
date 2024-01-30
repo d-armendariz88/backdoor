@@ -1,7 +1,7 @@
 import socket
 
-HOST ='50.46.168.136'
-PORT ='8081'
+HOST ='#'
+PORT =8081
 server = socket.socket()
 server.bind((HOST,PORT))
 server.listen(1)
